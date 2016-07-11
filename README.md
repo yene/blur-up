@@ -8,7 +8,8 @@ Show a small blurred placeholder image until the real one is loaded.
 3. put base encoded data into site
 
 ## TODO
-- [ ] try other down sampling algos 
+- [ ] try other down sampling algos
+- [ ] use [stackblur algo](http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html)
 
 ## Notes
 * [nfnt/resize](https://github.com/nfnt/resize)
